@@ -89,7 +89,7 @@ class Hattertarolo:
             s += item.__str__() + "\n"
         return s
 
-
+#val
 # Tesztelés
 def main():
     t1 = "a tiramisu receptje: babapiskóta, kave, mascarpone, tejszin, cukor, kakaopor"
