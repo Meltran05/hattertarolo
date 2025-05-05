@@ -1,0 +1,7 @@
+Attribut: enum.. felsorolva milyen attributumu lehet majd egy fájl
+Fajl: nev, kiterjesztes, tartalom, attributum és méret
+Hattertároló: lista, amiben Fájl tipusu objektumok vannak. A listához a hozzaad metódussal tudok fájlt rakni a listába
+
+
+
+
